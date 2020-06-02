@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementPagin_Using_SkipAndTake", "ImplementPagin_Using_SkipAndTake\ImplementPagin_Using_SkipAndTake.csproj", "{BF734A33-8673-4AF3-97CC-5EB57F137A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF734A33-8673-4AF3-97CC-5EB57F137A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF734A33-8673-4AF3-97CC-5EB57F137A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF734A33-8673-4AF3-97CC-5EB57F137A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF734A33-8673-4AF3-97CC-5EB57F137A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D551CD36-DAD9-47AC-A5D2-B5CD19371A4E}
+	EndGlobalSection
+EndGlobal
